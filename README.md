@@ -1,4 +1,4 @@
-<h1>javaScript Calculator Project</h1>
+<h1>javaScript Calculator Project.</h1>
 
 A project where i created a javaScript calculator with some HTML&CSS styling.
 
